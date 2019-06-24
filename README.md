@@ -10,6 +10,13 @@ Scraper to extract restaurant details from Tripadvisor.com using Scrapy
 6. Rating
 7. Number of reviews
 
+## Prerequisites
+Install Python 3 and Pip. Follow the guides below:
+
+Linux – http://docs.python-guide.org/en/latest/starting/install3/linux/
+Mac – http://docs.python-guide.org/en/latest/starting/install3/osx/
+Windows  – https://www.scrapehero.com/how-to-install-python3-in-windows-10/
+
 ## Export Product Data into JSON or CSV using Scrapy
 
 To store the output as a CSV file:
