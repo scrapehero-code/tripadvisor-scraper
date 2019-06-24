@@ -31,4 +31,4 @@ scrapy crawl tripadvisor -o tripdvisor.csv -t json
 https://gist.github.com/scrapehero-code/4e82feacd1dbe8dc5124478a5f9fa0ba
 
 ## Output
-[Output](https://github.com/scrapehero-code/tripadvisor-scraper/blob/master/tripadvisor-restaurants.csv)
+[Sample Output](https://github.com/scrapehero-code/tripadvisor-scraper/blob/master/tripadvisor-restaurants.csv)
