@@ -10,6 +10,16 @@ Scraper to extract restaurant details from Tripadvisor.com using Scrapy
 6. Rating
 7. Number of reviews
 
+## Export Product Data into JSON or CSV using Scrapy
+
+To store the output as a CSV file:
+
+scrapy crawl tripadvisor -o tripadvisor.csv -t csv
+
+For a JSON file:
+
+scrapy crawl tripadvisor -o tripdvisor.csv -t json
+
 ## Code
 https://gist.github.com/scrapehero-code/4e82feacd1dbe8dc5124478a5f9fa0ba
 
