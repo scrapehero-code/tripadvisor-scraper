@@ -11,6 +11,6 @@ Scraper to extract restaurant details from Tripadvisor.com using Scrapy
 7 Number of reviews
 
 ## Code
-
+``https://gist.github.com/scrapehero-code/4e82feacd1dbe8dc5124478a5f9fa0ba```
 
 ## Output
