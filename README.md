@@ -13,9 +13,9 @@ Scraper to extract restaurant details from Tripadvisor.com using Scrapy
 ## Prerequisites
 Install Python 3 and Pip. Follow the guides below:
 
-Linux – http://docs.python-guide.org/en/latest/starting/install3/linux/
-Mac – http://docs.python-guide.org/en/latest/starting/install3/osx/
-Windows  – https://www.scrapehero.com/how-to-install-python3-in-windows-10/
+- Linux – http://docs.python-guide.org/en/latest/starting/install3/linux/
+- Mac – http://docs.python-guide.org/en/latest/starting/install3/osx/
+- Windows  – https://www.scrapehero.com/how-to-install-python3-in-windows-10/
 
 ## Export Product Data into JSON or CSV using Scrapy
 
