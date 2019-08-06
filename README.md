@@ -28,7 +28,7 @@ python3 tripadvisor.py https://www.tripadvisor.com/Restaurant_Review-g60745-d537
 
 
 ## Code
-
+https://gist.github.com/scrapehero-code/4b5ed67eb5e68d96614daee662d5ffa0
 
 ## Output
-[Sample Output]()
+[Sample Output](https://github.com/scrapehero-code/tripadvisor-scraper/blob/master/tripadvisor-restaurants.csv)
