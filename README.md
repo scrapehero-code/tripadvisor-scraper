@@ -1,14 +1,12 @@
 # Tripadvisor Scraper
-Scraper to extract restaurant details from Tripadvisor.com using Scrapy
-
+Scraper to extract restaurant details from Tripadvisor.com using Python and SelectorLib
 ## Details to extract
 1. Restaurant Name
 2. Restaurant Link
 3. Cuisine
 4. Price
-5. Rank
-6. Rating
-7. Number of reviews
+5. Rating
+6. Number of reviews
 
 ## Prerequisites
 Install Python 3 and Pip. Follow the guides below:
@@ -16,19 +14,21 @@ Install Python 3 and Pip. Follow the guides below:
 - Linux – http://docs.python-guide.org/en/latest/starting/install3/linux/
 - Mac – http://docs.python-guide.org/en/latest/starting/install3/osx/
 - Windows  – https://www.scrapehero.com/how-to-install-python3-in-windows-10/
+Packages
 
-## Export Product Data into JSON or CSV using Scrapy
+- PIP to install the following packages in Python (https://pip.pypa.io/en/stable/installing/ )
+- Python Requests, to make requests and download the HTML content of the pages ( http://docs.python-requests.org/en/master/user/install/).
+- SelectorLib to create the YML file
 
-To store the output as a CSV file:
+## Export Product Data into CSV
+To store the output as a CSV file: python3 tripadvisor.py <url>
 
-scrapy crawl tripadvisor -o tripadvisor.csv -t csv
+Example
+python3 tripadvisor.py https://www.tripadvisor.com/Restaurant_Review-g60745-d537940-Reviews-Picco_Restaurant-Boston_Massachusetts.html
 
-For a JSON file:
-
-scrapy crawl tripadvisor -o tripdvisor.csv -t json
 
 ## Code
-https://gist.github.com/scrapehero-code/4e82feacd1dbe8dc5124478a5f9fa0ba
+
 
 ## Output
-[Sample Output](https://github.com/scrapehero-code/tripadvisor-scraper/blob/master/tripadvisor-restaurants.csv)
+[Sample Output]()
