@@ -1,4 +1,4 @@
-# Tripadvisor Scraper
+# Tripadvisor Restaurant Scraper
 Scraper to extract restaurant details from Tripadvisor.com using Python and SelectorLib
 ## Details to extract
 1. Restaurant Name
