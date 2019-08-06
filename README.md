@@ -26,7 +26,8 @@ https://gist.github.com/scrapehero-code/4b5ed67eb5e68d96614daee662d5ffa0
 To store the output as a CSV file: python3 tripadvisor.py <url>
 
 Example
-python3 tripadvisor.py https://www.tripadvisor.com/Restaurant_Review-g60745-d537940-Reviews-Picco_Restaurant-Boston_Massachusetts.html
+
+`python3 tripadvisor.py https://www.tripadvisor.com/Restaurant_Review-g60745-d537940-Reviews-Picco_Restaurant-Boston_Massachusetts.html`
 
 ## Output
 [Sample Output](https://github.com/scrapehero-code/tripadvisor-scraper/blob/master/tripadvisor-restaurants.csv)
