@@ -20,7 +20,7 @@ Packages
 - SelectorLib to take the YAML file as input and parse the HTML. (Learn how to install that here https://selectorlib.readthedocs.io/en/latest/installation.html
 
 ## Code
-https://gist.github.com/scrapehero-code/4b5ed67eb5e68d96614daee662d5ffa0
+https://github.com/scrapehero-code/tripadvisor-scraper/blob/master/tripadvisor_restaurants.py
 
 ## Export Product Data into CSV
 To store the output as a CSV file: python3 tripadvisor.py <url>
