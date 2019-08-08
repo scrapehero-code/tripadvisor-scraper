@@ -17,7 +17,7 @@ Install Python 3 and Pip. Follow the guides below:
 Packages
 - PIP to install the following packages in Python (https://pip.pypa.io/en/stable/installing/ )
 - Python Requests, to make requests and download the HTML content of the pages ( http://docs.python-requests.org/en/master/user/install/).
-- SelectorLib to create the YML file
+- SelectorLib to take the YAML file as input and parse the HTML. (Learn how to install that here https://selectorlib.readthedocs.io/en/latest/installation.html
 
 ## Code
 https://gist.github.com/scrapehero-code/4b5ed67eb5e68d96614daee662d5ffa0
