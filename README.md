@@ -37,8 +37,7 @@ optional arguments:
 
 Here is the command to extract the first-page of restaurant listings in Boston, MA.:
 
-```python3 tripadvisor.py https://www.tripadvisor.com/Restaurant_Review-g60745-d537940-Reviews-Picco_Restaurant-Boston_Massachusetts.html
-```
+```python3 tripadvisor.py https://www.tripadvisor.com/Restaurant_Review-g60745-d537940-Reviews-Picco_Restaurant-Boston_Massachusetts.html```
 
 ## Output
 [Sample Output](https://github.com/scrapehero-code/tripadvisor-scraper/blob/master/tripadvisor-restaurants.csv)
