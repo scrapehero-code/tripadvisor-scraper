@@ -1,0 +1,28 @@
+restaurants:
+    css: div.restaurants-list-ListCell__cellContainer--2mpJS
+    multiple: true
+    type: Text
+    children:
+        name:
+            css: a.restaurants-list-ListCell__restaurantName--2aSdo
+            type: Text
+            format: Name
+        reviews:
+            css: span.restaurants-list-ListCell__userReviewCount--2a61M
+            type: Text
+            format: Reviews
+        cusine:
+            css: 'div.restaurants-list-ListCell__infoRow--31xBt.restaurants-list-ListCell__cuisinePriceMenu--r4-Re span.restaurants-list-ListCell__infoCell--1Fz8a:nth-of-type(1) span.restaurants-list-ListCell__infoRowElement--2E6E3'
+            type: Text
+        rating:
+            css: span.ui_bubble_rating
+            type: Attribute
+            attribute: class
+            format: Rating
+        price_range:
+            css: 'div.restaurants-list-ListCell__infoRow--31xBt.restaurants-list-ListCell__cuisinePriceMenu--r4-Re span.restaurants-list-ListCell__infoCell--1Fz8a:nth-of-type(2) span.restaurants-list-ListCell__infoRowElement--2E6E3'
+            type: Text
+        url:
+            css: a.restaurants-list-ListCell__restaurantName--2aSdo
+            type: Link
+            format: Url
